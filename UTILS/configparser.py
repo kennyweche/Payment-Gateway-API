@@ -24,4 +24,4 @@ class Cparser:
                  print "Parse exception {0}".format(e)
           return config_dict
        except Exception,e:
-           print "Ni blunder kuparse iyo file joh!. Noma ni {0}".format(e) 
+           print "A blunder to pass that file{0}".format(e) 
