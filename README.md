@@ -13,5 +13,5 @@ The Payment Gateway API
 * Setup MySQL
 * Setup PyCharm or any other IDE( for Dev )
 * Setup modules for python ( such as pika, redis )
-* Run pip install requiremnts.txt
+* Run pip install requirements.txt
 * Use the bin/startup.sh to start -stop the API 
