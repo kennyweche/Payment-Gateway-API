@@ -1,8 +1,8 @@
 import pika
-import logging
 import json
 import requests
 import sys
+import logging
 import time
 import datetime
 
